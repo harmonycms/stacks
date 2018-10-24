@@ -1,0 +1,10 @@
+{
+  "stacks": {
+    "databases": {
+      "mysql": "harmony/doctrine-orm",
+      "sqlite": "harmony/doctrine-orm",
+      "pgsql": "harmony/doctrine-orm",
+      "mongodb": "harmony/doctrine-mongodb"
+    }
+  }
+}
